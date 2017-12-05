@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // l’ensemble d’attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("demo_ms_azure")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("test")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("demo_ms_azure")]
